@@ -1,0 +1,41 @@
+name: Atualizar pautas do dia
+
+# Roda todo dia às 09:00 UTC (06:00 no horário de Brasília) e também dá pra
+# rodar na mão pelo botão "Run workflow" na aba Actions do GitHub.
+on:
+  schedule:
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Gerar feed do dia
+        env:
+          # Opcional: se você cadastrar este segredo no repositório
+          # (Settings → Secrets → Actions), as ideias saem escritas por IA.
+          # Sem ele, o site usa os modelos de ideia embutidos — funciona igual.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/gerar.mjs
+
+      - name: Publicar a nova edição
+        run: |
+          git config user.name  "pauta-do-dia-bot"
+          git config user.email "actions@users.noreployment.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Sem novidades hoje."
+          else
+            git commit -m "Edição de $(date -u +%d/%m/%Y)"
+            git push
+          fi
