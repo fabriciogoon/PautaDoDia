@@ -1,0 +1,12 @@
+{
+  "name": "pauta-do-dia",
+  "version": "1.0.0",
+  "description": "Mural de pautas: puxa notícias de vários sites e vira ideias de post. Atualiza sozinho todo dia.",
+  "type": "module",
+  "scripts": {
+    "gerar": "node scripts/gerar.mjs",
+    "amostra": "node scripts/gerar.mjs --amostra",
+    "servir": "node scripts/servir.mjs"
+  },
+  "engines": { "node": ">=18" }
+}
