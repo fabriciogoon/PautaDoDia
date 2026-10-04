@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-03T14:08:18.965Z",
-  "edicao": "03 de outubro de 2026",
+  "gerado_em": "2026-10-04T14:37:04.567Z",
+  "edicao": "04 de outubro de 2026",
   "total": 24,
   "segmentos": [
     {
@@ -42,7 +42,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/hellmanns-verdadeira-campanha-heinz-maionese-brasil/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [],
       "ideias": [
         {
@@ -72,7 +72,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/youtube-shorts-cortes-conteudo-original-reposts/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [
         "social"
       ],
@@ -104,7 +104,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/skydance-paramount-warner-bros-novo-nome-fusao/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [
         "branding"
       ],
@@ -136,7 +136,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/zendaya-on-segunda-colecao-filme-acao-pantera/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [
         "branding"
       ],
@@ -162,13 +162,43 @@
       ]
     },
     {
+      "id": "p_3ah0k5",
+      "titulo": "Coração Selvagem",
+      "resumo": "Filmes e séries da semana, no cinema e no streaming.",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/cinematico/coracao-selvagem/",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
+      "segmentos": [],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Coração Selvagem\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Coração Selvagem\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Coração Selvagem\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
       "id": "p_lscene",
       "titulo": "ASICS transforma humanos sedentários em espécie ameaçada",
       "resumo": "Sigourney Weaver narra “Human Nature”, falso documentário de conservação sobre uma espécie que passa 86% do dia acordada sem se mover",
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/asics-human-nature-sedentarismo-sigourney-weaver/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [],
       "ideias": [
         {
@@ -198,7 +228,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/kfc-dont-crack-game-show-believe-in-chicken/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [
         "publicidade"
       ],
@@ -230,7 +260,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/lego-dragon-ball-shenron-goku/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
+      "publicado_em": "2026-10-04T14:37:02.243Z",
       "segmentos": [],
       "ideias": [
         {
@@ -250,38 +280,6 @@
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
           "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"LEGO lança primeiro set de Dragon Ball\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_eov0fr",
-      "titulo": "OpenAI lança Dots, agentes que trabalham em segundo plano",
-      "resumo": "Assistentes usam computador na nuvem, acessam mais de 4 mil apps e aprendem preferências para tocar projetos sem esperar um novo prompt",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/openai-dots-agentes-ia-computador-nuvem-muse/",
-      "publicado_em": "2026-10-03T14:08:16.569Z",
-      "segmentos": [
-        "ia-tech"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em IA e tecnologia aplicadas ao marketing.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"OpenAI lança Dots, agentes que trabalham em segundo plano\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em IA e tecnologia aplicadas ao marketing.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"OpenAI lança Dots, agentes que trabalham em segundo plano\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em IA e tecnologia aplicadas ao marketing.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"OpenAI lança Dots, agentes que trabalham em segundo plano\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
