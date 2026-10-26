@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-25T13:33:43.139Z",
-  "edicao": "25 de outubro de 2026",
+  "gerado_em": "2026-10-26T15:50:33.927Z",
+  "edicao": "26 de outubro de 2026",
   "total": 24,
   "segmentos": [
     {
@@ -36,184 +36,32 @@
   ],
   "pautas": [
     {
-      "id": "p_c32kkw",
-      "titulo": "A Leste do Éden",
-      "resumo": "Filmes e séries da semana, no cinema e no streaming.",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/cinematico/a-leste-do-eden/",
-      "publicado_em": "2026-10-25T13:33:28.137Z",
-      "segmentos": [],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"A Leste do Éden\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"A Leste do Éden\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"A Leste do Éden\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_1fx3ibv",
-      "titulo": "Dentro da Baleia",
-      "resumo": "Filmes e séries da semana, no cinema e no streaming.",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/cinematico/dentro-da-baleia/",
-      "publicado_em": "2026-10-25T13:33:28.137Z",
-      "segmentos": [],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dentro da Baleia\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Dentro da Baleia\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dentro da Baleia\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_1bn08n8",
-      "titulo": "Dois anos depois do “vamos chegar lá”, Netflix fecha acordo de licenciamento com a Globo",
-      "resumo": "Pacote leva 18 obras para a plataforma, entre Ainda Estou Aqui, Caminho das Índias e Vai Que Cola, com direitos diferentes para cada território",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/netflix-globo-acordo-licenciamento-18-obras/",
-      "publicado_em": "2026-10-25T13:33:28.137Z",
-      "segmentos": [],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dois anos depois do vamos chegar lá, Netflix fecha acordo de licenciamento com a Globo\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Dois anos depois do vamos chegar lá, Netflix fecha acordo de licenciamento com a Globo\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dois anos depois do vamos chegar lá, Netflix fecha acordo de licenciamento com a Globo\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_18vjdr9",
-      "titulo": "O que é o SUS?",
+      "id": "p_171yv3u",
+      "titulo": "Naruhodo Entrevista #79: Patricia Endo",
       "resumo": "O podcast pra quem tem fome de aprender",
       "fonte": "B9",
       "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/naruhodo/o-que-e-o-sus/",
-      "publicado_em": "2026-10-25T13:33:28.137Z",
+      "url": "https://www.b9.com.br/naruhodo/naruhodo-entrevista-79-patricia-endo/",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
       "segmentos": [],
       "ideias": [
         {
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O que é o SUS?\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Naruhodo Entrevista #79: Patricia Endo\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"O que é o SUS?\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Naruhodo Entrevista #79: Patricia Endo\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O que é o SUS?\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_1083k2g",
-      "titulo": "O algoritmo tem candidato?",
-      "resumo": "As denúncias contra a Meta e o poder das plataformas para decidir o que ganha espaço nas eleições",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/braincast/o-algoritmo-tem-candidato/",
-      "publicado_em": "2026-10-25T13:33:28.137Z",
-      "segmentos": [
-        "social"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O algoritmo tem candidato?\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"O algoritmo tem candidato?\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O algoritmo tem candidato?\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_12424vy",
-      "titulo": "Carrie",
-      "resumo": "Filmes e séries da semana, no cinema e no streaming.",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/cinematico/carrie/",
-      "publicado_em": "2026-10-25T13:33:28.137Z",
-      "segmentos": [],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Carrie\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Carrie\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Carrie\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Naruhodo Entrevista #79: Patricia Endo\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
@@ -224,7 +72,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/braincast/tem-que-voltar/",
-      "publicado_em": "2026-10-25T13:33:28.136Z",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
       "segmentos": [],
       "ideias": [
         {
@@ -254,7 +102,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/apple-music-nova-identidade-som-ondas-liquido/",
-      "publicado_em": "2026-10-25T13:33:28.136Z",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
       "segmentos": [
         "branding",
         "design"
@@ -281,174 +129,165 @@
       ]
     },
     {
-      "id": "p_czf36q",
-      "titulo": "Divisão saudável",
-      "resumo": "Sejamos sinceros, nenhuma agência gosta de dividir contas. É muito melhor ter todo o cliente dentro de casa. Além de aumentar a rentabilidade quando se tem a fatia maior do bolo, fica mais fácil para se relacionar e orga",
+      "id": "p_c32kkw",
+      "titulo": "A Leste do Éden",
+      "resumo": "Filmes e séries da semana, no cinema e no streaming.",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/cinematico/a-leste-do-eden/",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
+      "segmentos": [],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"A Leste do Éden\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"A Leste do Éden\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"A Leste do Éden\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1fx3ibv",
+      "titulo": "Dentro da Baleia",
+      "resumo": "Filmes e séries da semana, no cinema e no streaming.",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/cinematico/dentro-da-baleia/",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
+      "segmentos": [],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dentro da Baleia\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Dentro da Baleia\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dentro da Baleia\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1bn08n8",
+      "titulo": "Dois anos depois do “vamos chegar lá”, Netflix fecha acordo de licenciamento com a Globo",
+      "resumo": "Pacote leva 18 obras para a plataforma, entre Ainda Estou Aqui, Caminho das Índias e Vai Que Cola, com direitos diferentes para cada território",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/netflix-globo-acordo-licenciamento-18-obras/",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
+      "segmentos": [],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dois anos depois do vamos chegar lá, Netflix fecha acordo de licenciamento com a Globo\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Dois anos depois do vamos chegar lá, Netflix fecha acordo de licenciamento com a Globo\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Dois anos depois do vamos chegar lá, Netflix fecha acordo de licenciamento com a Globo\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_18vjdr9",
+      "titulo": "O que é o SUS?",
+      "resumo": "O podcast pra quem tem fome de aprender",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/naruhodo/o-que-e-o-sus/",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
+      "segmentos": [],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O que é o SUS?\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"O que é o SUS?\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O que é o SUS?\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1083k2g",
+      "titulo": "O algoritmo tem candidato?",
+      "resumo": "As denúncias contra a Meta e o poder das plataformas para decidir o que ganha espaço nas eleições",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/braincast/o-algoritmo-tem-candidato/",
+      "publicado_em": "2026-10-26T15:50:31.638Z",
+      "segmentos": [
+        "social"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O algoritmo tem candidato?\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"O algoritmo tem candidato?\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O algoritmo tem candidato?\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_yjfnlh",
+      "titulo": "Electrolux leva potes reutilizáveis a delivery em ação com iFood",
+      "resumo": "Criada pela DPZ, ação de iFood Ads entrega pratos do Mocotó e de Isabela Akkari em recipientes da marca",
       "fonte": "Propmark",
       "categoria": "Publicidade",
-      "url": "https://propmark.com.br/editorial/divisao-saudavel/",
-      "publicado_em": "2026-10-24T13:00:00.000Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Divisão saudável\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Divisão saudável\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Divisão saudável\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_1linwo0",
-      "titulo": "Edição de 26 de outubro de 2026",
-      "resumo": "",
-      "fonte": "Propmark",
-      "categoria": "Publicidade",
-      "url": "https://propmark.com.br/acervo/edicao-de-26-de-outubro-de-2026/",
-      "publicado_em": "2026-10-24T08:00:00.000Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Edição de 26 de outubro de 2026\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Edição de 26 de outubro de 2026\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Edição de 26 de outubro de 2026\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_k9i01p",
-      "titulo": "Época Cosméticos apresenta nova identidade visual e anuncia primeira loja outlet",
-      "resumo": "Marca celebra 20 anos com rebranding desenvolvido pela Ogilvy, FutureBrand e Estúdio Fabio Haag e inicia expansão para o varejo físico. A Época Cosméticos completa 20 anos em 2026 com uma nova identidade visual e planos ",
-      "fonte": "Publicitários Criativos",
-      "categoria": "Criatividade",
-      "url": "https://www.publicitarioscriativos.com/epoca-cosmeticos-apresenta-nova-identidade-visual-e-anuncia-primeira-loja-outlet/",
-      "publicado_em": "2026-10-23T23:07:31.000Z",
-      "segmentos": [
-        "branding",
-        "design"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Época Cosméticos apresenta nova identidade visual e anuncia primeira loja outlet\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Época Cosméticos apresenta nova identidade visual e anuncia primeira loja outlet\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Época Cosméticos apresenta nova identidade visual e anuncia primeira loja outlet\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_l072ny",
-      "titulo": "Cinema: o que atrai e o que afasta os espectadores",
-      "resumo": "O valor dos ingressos e da comida e das bebidas nas bombonieres são dois dos obstáculos que os brasileiros citam com maior frequência quando elencam motivos que impedem sua ida ao cinema. As afirmações são resultado de l",
-      "fonte": "Meio & Mensagem",
-      "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/midia/cinema-o-que-atrai-e-o-que-afasta-os-espectadores",
-      "publicado_em": "2026-10-23T22:44:37.000Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Cinema: o que atrai e o que afasta os espectadores\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Cinema: o que atrai e o que afasta os espectadores\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Cinema: o que atrai e o que afasta os espectadores\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_p7mri3",
-      "titulo": "MMA Innovate Brasil apresenta nova pesquisa sobre retail media",
-      "resumo": "Estudo da Hibou ouviu mais de mil pessoas e será apresentado no evento, em São Paulo",
-      "fonte": "Propmark",
-      "categoria": "Publicidade",
-      "url": "https://propmark.com.br/mercado/mma-innovate-brasil-apresenta-nova-pesquisa-sobre-retail-media/",
-      "publicado_em": "2026-10-23T22:16:24.000Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"MMA Innovate Brasil apresenta nova pesquisa sobre retail media\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"MMA Innovate Brasil apresenta nova pesquisa sobre retail media\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"MMA Innovate Brasil apresenta nova pesquisa sobre retail media\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_11o6ac8",
-      "titulo": "Saturação de anúncios desafia marcas na Black Friday",
-      "resumo": "Às vésperas de mais uma edição da Black Friday, o varejo brasileiro enfrenta um obstáculo: a saturação da atenção do consumidor. Dados do levantamento YouGov Profiles+ Brazil revelam que 58,4% dos entrevistados se sentem",
-      "fonte": "Meio & Mensagem",
-      "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/marketing/saturacao-de-anuncios-desafia-marcas-na-black-friday",
-      "publicado_em": "2026-10-23T21:19:32.000Z",
+      "url": "https://propmark.com.br/anunciantes/electrolux-leva-potes-reutilizaveis-a-delivery-em-acao-com-ifood/",
+      "publicado_em": "2026-10-26T15:47:30.000Z",
       "segmentos": [
         "branding",
         "publicidade"
@@ -458,31 +297,32 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Saturação de anúncios desafia marcas na Black Friday\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Electrolux leva potes reutilizáveis a delivery em ação com iFood\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Saturação de anúncios desafia marcas na Black Friday\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Electrolux leva potes reutilizáveis a delivery em ação com iFood\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Saturação de anúncios desafia marcas na Black Friday\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Electrolux leva potes reutilizáveis a delivery em ação com iFood\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_zj52h2",
-      "titulo": "Como Galinha Pintadinha e Mundo Bita ampliam seus negócios?",
-      "resumo": "A Galinha Pintadinha e o Mundo Bita se consolidaram como dois dos principais fenômenos brasileiros de entretenimento infantil. Com trajetórias construídas a partir da produção de conteúdo audiovisual, as franquias transf",
-      "fonte": "Meio & Mensagem",
-      "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/videos/como-galinha-pintadinha-e-mundo-bita-ampliam-seus-negocios",
-      "publicado_em": "2026-10-23T21:11:16.000Z",
+      "id": "p_my47uh",
+      "titulo": "Mineiras &#8216;Xeque Mate&#8217; e &#8216;Lambe Lambe&#8217; ganham destaque nas redes com posição em defesa da democracia pré-eleições",
+      "resumo": "As marcas mineiras Xeque Mate e Lambe Lambe se destacam ao defenderem a democracia nas redes sociais antes das eleições, conquistando grande engajamento e apoio do público. Enquanto muitas evitam posicionamentos político",
+      "fonte": "GKPB",
+      "categoria": "Publicidade",
+      "url": "https://gkpb.com.br/200085/xeque-mate-lambe-lambe-eleicoes/",
+      "publicado_em": "2026-10-26T15:01:40.000Z",
       "segmentos": [
+        "branding",
         "social",
         "publicidade"
       ],
@@ -491,30 +331,63 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Como Galinha Pintadinha e Mundo Bita ampliam seus negócios?\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Mineiras &#8216;Xeque Mate&#8217; e &#8216;Lambe Lambe&#8217; ganham destaque nas redes com posição em defesa da democracia pré-eleições\" (fonte: GKPB).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Como Galinha Pintadinha e Mundo Bita ampliam seus negócios?\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Mineiras &#8216;Xeque Mate&#8217; e &#8216;Lambe Lambe&#8217; ganham destaque nas redes com posição em defesa da democracia pré-eleições\" (fonte: GKPB).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Como Galinha Pintadinha e Mundo Bita ampliam seus negócios?\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Mineiras &#8216;Xeque Mate&#8217; e &#8216;Lambe Lambe&#8217; ganham destaque nas redes com posição em defesa da democracia pré-eleições\" (fonte: GKPB).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_w4s2ls",
-      "titulo": "Campanhas da Semana: grandes causas e ideias globais",
-      "resumo": "Comandando as ações de aquecimento para o 11.11 e a Black Friday, o Mercado Livre e o Mercado Pago colocaram a cantora Anitta no centro de duas campanhas integradas desenvolvidas pela Gut. No Mercado Livre, a ação &#8220",
-      "fonte": "Meio & Mensagem",
-      "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/comunicacao/campanhas-da-semana-grandes-causas-e-ideias-globais",
-      "publicado_em": "2026-10-23T20:22:09.000Z",
+      "id": "p_vmyau3",
+      "titulo": "Brasil Cacau e Fini ampliam collab e levam Fini Beijos para as cafeterias da marca",
+      "resumo": "Brasil Cacau e Fini ampliam parceria com a Temporada Fini Beijos, lançando sobremesas exclusivas nas cafeterias e novos chocolates para lojas, inspirados nas balas de gelatina Fini Beijos. A iniciativa reforça a estratég",
+      "fonte": "GKPB",
+      "categoria": "Publicidade",
+      "url": "https://gkpb.com.br/200087/fini-brasil-cacau/",
+      "publicado_em": "2026-10-26T14:53:26.000Z",
+      "segmentos": [
+        "branding",
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Brasil Cacau e Fini ampliam collab e levam Fini Beijos para as cafeterias da marca\" (fonte: GKPB).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Brasil Cacau e Fini ampliam collab e levam Fini Beijos para as cafeterias da marca\" (fonte: GKPB).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Brasil Cacau e Fini ampliam collab e levam Fini Beijos para as cafeterias da marca\" (fonte: GKPB).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_yj77iq",
+      "titulo": "Wieden+Kennedy SP cria campanha da Uber com Belo para divulgar Preço Fixo",
+      "resumo": "Com o conceito ‘Aí sim’, comunicação reúne filme, mídia OOH e ações digitais",
+      "fonte": "Propmark",
+      "categoria": "Publicidade",
+      "url": "https://propmark.com.br/agencias/wiedenkennedy-sp-cria-campanha-da-uber-com-belo-para-divulgar-preco-fixo/",
+      "publicado_em": "2026-10-26T14:50:46.000Z",
       "segmentos": [
         "publicidade"
       ],
@@ -523,31 +396,32 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Campanhas da Semana: grandes causas e ideias globais\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Wieden+Kennedy SP cria campanha da Uber com Belo para divulgar Preço Fixo\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Campanhas da Semana: grandes causas e ideias globais\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Wieden+Kennedy SP cria campanha da Uber com Belo para divulgar Preço Fixo\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Campanhas da Semana: grandes causas e ideias globais\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Wieden+Kennedy SP cria campanha da Uber com Belo para divulgar Preço Fixo\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_14utup4",
-      "titulo": "Fanta transforma fachada do Méqui 1000 para o Dia das Bruxas",
-      "resumo": "Parceria transforma o Méqui 1000, em São Paulo, em um cenário temático e reúne promoções no aplicativo, brindes exclusivos e uma ativação do Caminhão Assombrado de Fanta. Fanta e McDonald’s se unem mais uma vez para cele",
+      "id": "p_8shfkl",
+      "titulo": "O Boticário lança campanha de Cuide-se Bem Acerola &#038; Vai para ser assistida em velocidade 2x",
+      "resumo": "O Boticário apresenta Cuide-se Bem Acerola &#38; Vai, nova linha de cuidados pessoais voltada às rotinas pré e pós-treino. Para marcar o lançamento, a marca desenvolveu uma campanha criada para ser assistida em velocidad",
       "fonte": "Publicitários Criativos",
       "categoria": "Criatividade",
-      "url": "https://www.publicitarioscriativos.com/fanta-transforma-fachada-do-mequi-1000-para-o-halloween/",
-      "publicado_em": "2026-10-23T20:01:38.000Z",
+      "url": "https://www.publicitarioscriativos.com/o-boticario-lanca-campanha-de-cuide-se-bem-acerola-vai-para-ser-assistida-em-velocidade-2x/",
+      "publicado_em": "2026-10-26T14:39:20.000Z",
       "segmentos": [
+        "branding",
         "publicidade"
       ],
       "ideias": [
@@ -555,30 +429,63 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Fanta transforma fachada do Méqui 1000 para o Dia das Bruxas\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O Boticário lança campanha de Cuide-se Bem Acerola &#038; Vai para ser assistida em velocidade 2x\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Fanta transforma fachada do Méqui 1000 para o Dia das Bruxas\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"O Boticário lança campanha de Cuide-se Bem Acerola &#038; Vai para ser assistida em velocidade 2x\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Fanta transforma fachada do Méqui 1000 para o Dia das Bruxas\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"O Boticário lança campanha de Cuide-se Bem Acerola &#038; Vai para ser assistida em velocidade 2x\" (fonte: Publicitários Criativos).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_1q5fxv0",
-      "titulo": "AlmapBBDO tem quatro novos diretores de criação",
-      "resumo": "Eduardo Nosé, Ligia Mendes, Lucas Saicali e Marcelo Ribeiro chegam à agência",
-      "fonte": "Propmark",
+      "id": "p_13s8fck",
+      "titulo": "OAZ entra no universo das blind boxes com carimbos colecionáveis de Bob Esponja",
+      "resumo": "A OAZ, marca da Eurofarma, lançou carimbos colecionáveis de Bob Esponja em blind boxes para compras acima de R$ 110. São seis modelos surpresa, com personagens como Patrick e Lula Molusco, visando o público kidult e apro",
+      "fonte": "GKPB",
       "categoria": "Publicidade",
-      "url": "https://propmark.com.br/agencias/almapbbdo-tem-quatro-novos-diretores-de-criacao/",
-      "publicado_em": "2026-10-23T19:51:45.000Z",
+      "url": "https://gkpb.com.br/200083/oaz-bob-esponja/",
+      "publicado_em": "2026-10-26T14:07:49.000Z",
+      "segmentos": [
+        "branding",
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"OAZ entra no universo das blind boxes com carimbos colecionáveis de Bob Esponja\" (fonte: GKPB).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"OAZ entra no universo das blind boxes com carimbos colecionáveis de Bob Esponja\" (fonte: GKPB).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em branding e construção de marca.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"OAZ entra no universo das blind boxes com carimbos colecionáveis de Bob Esponja\" (fonte: GKPB).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1skxypp",
+      "titulo": "Piracanjuba ProForce amplia linha com quatro novos suplementos",
+      "resumo": "A Piracanjuba ProForce ampliou sua linha de suplementos esportivos com quatro lançamentos: pré-treino sabor limão, creatina micronizada, gel de carboidrato e Whey Protein Concentrado de 900g, atendendo diferentes fases d",
+      "fonte": "GKPB",
+      "categoria": "Publicidade",
+      "url": "https://gkpb.com.br/200079/piracanjuba-proforce/",
+      "publicado_em": "2026-10-26T13:52:10.000Z",
       "segmentos": [
         "publicidade"
       ],
@@ -587,30 +494,30 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"AlmapBBDO tem quatro novos diretores de criação\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Piracanjuba ProForce amplia linha com quatro novos suplementos\" (fonte: GKPB).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"AlmapBBDO tem quatro novos diretores de criação\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Piracanjuba ProForce amplia linha com quatro novos suplementos\" (fonte: GKPB).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"AlmapBBDO tem quatro novos diretores de criação\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Piracanjuba ProForce amplia linha com quatro novos suplementos\" (fonte: GKPB).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_179busu",
-      "titulo": "McDia Feliz 2026 arrecada maior valor da história da campanha",
-      "resumo": "A 38ª edição do McDia Feliz, campanha beneficiente do McDonald&#8217;s realizada em 22 de agosto deste ano, arrecadou R$ 28,5 milhões, maior valor já registrado desde a sua criação em 1988. A arrecadação superou em R$ 50",
+      "id": "p_j7yxmx",
+      "titulo": "Escala 6&#215;1: quem tem direito ao próprio tempo?",
+      "resumo": "O debate sobre o fim da escala 6&#215;1 vai além das relações trabalhistas. É uma oportunidade de rever o conceito de produtividade e discutir quem tem direito ao tempo. Em uma sociedade desigual, não basta garantir aces",
       "fonte": "Meio & Mensagem",
       "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/marketing/mcdia-feliz-2026-arrecada-maior-valor-da-historia-da-campanha",
-      "publicado_em": "2026-10-23T19:21:58.000Z",
+      "url": "https://www.meioemensagem.com.br/womentowatch/escala-6x1-quem-tem-direito-ao-proprio-tempo",
+      "publicado_em": "2026-10-26T13:00:57.000Z",
       "segmentos": [
         "publicidade"
       ],
@@ -619,64 +526,159 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"McDia Feliz 2026 arrecada maior valor da história da campanha\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Escala 6&#215;1: quem tem direito ao próprio tempo?\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"McDia Feliz 2026 arrecada maior valor da história da campanha\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Escala 6&#215;1: quem tem direito ao próprio tempo?\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"McDia Feliz 2026 arrecada maior valor da história da campanha\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Escala 6&#215;1: quem tem direito ao próprio tempo?\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_1vlldyj",
-      "titulo": "Mynd incorpora tecnologia da Creators LLC para campanhas com influenciadores",
-      "resumo": "Parceria utiliza inteligência artificial na seleção e gestão de micro e nanoinfluenciadores",
+      "id": "p_izoa28",
+      "titulo": "Ibope passa a monitorar retail media de varejistas",
+      "resumo": "Conforme retail media amadurece, ganha novos formatos e mais investimento do mercado publicitário, agências e anunciantes demandam métricas de qualidade para mapear seus aportes. Pensando nisso, o Ibope adicionou retail ",
+      "fonte": "Meio & Mensagem",
+      "categoria": "Marketing",
+      "url": "https://www.meioemensagem.com.br/midia/ibope-passa-a-monitorar-retail-media-de-varejistas",
+      "publicado_em": "2026-10-26T13:00:42.000Z",
+      "segmentos": [
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Ibope passa a monitorar retail media de varejistas\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Ibope passa a monitorar retail media de varejistas\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Ibope passa a monitorar retail media de varejistas\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1hw3sly",
+      "titulo": "Fundador da The Group, Fernando Guntovitch tem lado B com Rolling Stones",
+      "resumo": "Do live marketing ao rock’n’roll, executivo leva a experiência da banda ao Blue Note",
       "fonte": "Propmark",
       "categoria": "Publicidade",
-      "url": "https://propmark.com.br/agencias/mynd-incorpora-tecnologia-da-creators-llc-para-campanhas-com-influenciadores/",
-      "publicado_em": "2026-10-23T19:14:00.000Z",
+      "url": "https://propmark.com.br/agencias/fundador-da-the-group-fernando-guntovitch-tem-lado-b-com-rolling-stones/",
+      "publicado_em": "2026-10-26T12:34:33.000Z",
+      "segmentos": [
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Fundador da The Group, Fernando Guntovitch tem lado B com Rolling Stones\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Fundador da The Group, Fernando Guntovitch tem lado B com Rolling Stones\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Fundador da The Group, Fernando Guntovitch tem lado B com Rolling Stones\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_12mpqh9",
+      "titulo": "Nova lei muda abordagem do Outubro Rosa nas empresas",
+      "resumo": "Em 2026, a campanha do Outubro Rosa ganhou novas camadas. Em abril deste ano, entrou em vigor a Lei 15.377/2026, sobre prevenção ao câncer, que altera a Consolidação das Leis do Trabalho (CLT) para transformar em obrigaç",
+      "fonte": "Meio & Mensagem",
+      "categoria": "Marketing",
+      "url": "https://www.meioemensagem.com.br/womentowatch/nova-lei-muda-abordagem-do-outubro-rosa-nas-empresas",
+      "publicado_em": "2026-10-26T12:29:31.000Z",
+      "segmentos": [
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Nova lei muda abordagem do Outubro Rosa nas empresas\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Nova lei muda abordagem do Outubro Rosa nas empresas\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Nova lei muda abordagem do Outubro Rosa nas empresas\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_xouua4",
+      "titulo": "GreenZ, Suba e Galaxies unem IA e influência em estratégia para GAC",
+      "resumo": "Montadora registra crescimento de quase quatro vezes na taxa de engajamento",
+      "fonte": "Propmark",
+      "categoria": "Publicidade",
+      "url": "https://propmark.com.br/digital/greenz-suba-e-galaxies-unem-ia-e-influencia-em-estrategia-para-gac/",
+      "publicado_em": "2026-10-26T12:12:29.000Z",
       "segmentos": [
         "social",
-        "publicidade",
-        "ia-tech"
+        "publicidade"
       ],
       "ideias": [
         {
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Mynd incorpora tecnologia da Creators LLC para campanhas com influenciadores\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"GreenZ, Suba e Galaxies unem IA e influência em estratégia para GAC\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Mynd incorpora tecnologia da Creators LLC para campanhas com influenciadores\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"GreenZ, Suba e Galaxies unem IA e influência em estratégia para GAC\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Mynd incorpora tecnologia da Creators LLC para campanhas com influenciadores\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em social media e conteúdo para redes.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"GreenZ, Suba e Galaxies unem IA e influência em estratégia para GAC\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_f9il0i",
-      "titulo": "Amplified explica divergências em dados de Google, Globo e Netflix",
-      "resumo": "A empresa australiana Amplified, especializada em mensuração da atenção, anuncia a criação de um painel sindicalizado feito em parceria com plataformas de streaming e emissoras de televisão para que o mercado tenha uma b",
+      "id": "p_6esngc",
+      "titulo": "McDonald&#8217;s encerra acordo de 32 anos com a Fifa",
+      "resumo": "O McDonald&#8217;s está encerrando o acordo de patrocínio à Copa do Mundo que mantinha com a Fifa após 32 anos, de acordo com a Adweek. A decisão faz parte da reformulação das estratégias de marketing da companhia. De ac",
       "fonte": "Meio & Mensagem",
       "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/midia/amplified-cria-painel-para-comparar-dados-de-atencao-entre-plataformas",
-      "publicado_em": "2026-10-23T19:09:04.000Z",
+      "url": "https://www.meioemensagem.com.br/marketing/mcdonalds-encerra-acordo-de-32-anos-com-a-fifa",
+      "publicado_em": "2026-10-26T12:05:23.000Z",
       "segmentos": [
         "publicidade"
       ],
@@ -685,94 +687,30 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Amplified explica divergências em dados de Google, Globo e Netflix\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"McDonald&#8217;s encerra acordo de 32 anos com a Fifa\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Amplified explica divergências em dados de Google, Globo e Netflix\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"McDonald&#8217;s encerra acordo de 32 anos com a Fifa\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Amplified explica divergências em dados de Google, Globo e Netflix\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"McDonald&#8217;s encerra acordo de 32 anos com a Fifa\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
     {
-      "id": "p_1ca7i1b",
-      "titulo": "PETRONAS lança promoção com miniatura do carro da Mercedes da Fórmula 1",
-      "resumo": "A PETRONAS lançou a promoção \"Da Pista para o Posto\", oferecendo miniaturas oficiais do carro Mercedes-AMG PETRONAS F1 W16. Para participar, é necessário abastecer ou comprar produtos PETRONAS em postos selecionados, com",
-      "fonte": "GKPB",
-      "categoria": "Publicidade",
-      "url": "https://gkpb.com.br/200063/miniatura-mercedes-petronas/",
-      "publicado_em": "2026-10-23T19:04:46.000Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"PETRONAS lança promoção com miniatura do carro da Mercedes da Fórmula 1\" (fonte: GKPB).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"PETRONAS lança promoção com miniatura do carro da Mercedes da Fórmula 1\" (fonte: GKPB).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"PETRONAS lança promoção com miniatura do carro da Mercedes da Fórmula 1\" (fonte: GKPB).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_xu7k1z",
-      "titulo": "McDia Feliz 2026 bate recorde histórico e arrecada R$ 28,5 milhões",
-      "resumo": "O McDia Feliz 2026 bateu recorde histórico ao arrecadar R$ 28,5 milhões para projetos de saúde e educação infantil no Brasil. A campanha, realizada em 22 de agosto, apoia a Casa Ronald McDonald e o Instituto Ayrton Senna",
-      "fonte": "GKPB",
-      "categoria": "Publicidade",
-      "url": "https://gkpb.com.br/200062/mcdia-feliz-2026-2/",
-      "publicado_em": "2026-10-23T18:57:57.000Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"McDia Feliz 2026 bate recorde histórico e arrecada R$ 28,5 milhões\" (fonte: GKPB).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"McDia Feliz 2026 bate recorde histórico e arrecada R$ 28,5 milhões\" (fonte: GKPB).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"McDia Feliz 2026 bate recorde histórico e arrecada R$ 28,5 milhões\" (fonte: GKPB).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_1n9z5eb",
-      "titulo": "Grécia oficializa proibição de redes a menores de 15 anos",
-      "resumo": "O Parlamento da Grécia aprovou nesta sexta-feira, 23, projeto de lei que proíbe o uso de redes sociais por menores de 15 anos. De fato, o governo grego havia sinalizado para esta proibição em abril deste ano, mas dependi",
+      "id": "p_mwu18t",
+      "titulo": "WPP Production inaugura hub em São Paulo",
+      "resumo": "O WPP Campus, na Vila Leopoldina, em São Paulo, passa a abrigar o novo estúdio integrado da WPP Production para atender clientes do grupo em toda a América Latina. O espaço foi intencionalmente desenhado para manter a pr",
       "fonte": "Meio & Mensagem",
       "categoria": "Marketing",
-      "url": "https://www.meioemensagem.com.br/midia/grecia-oficializa-proibicao-de-redes-a-menores-de-15-anos",
-      "publicado_em": "2026-10-23T18:56:12.000Z",
+      "url": "https://www.meioemensagem.com.br/comunicacao/wpp-production-inaugura-hub-em-sao-paulo",
+      "publicado_em": "2026-10-26T11:20:01.000Z",
       "segmentos": [
         "publicidade"
       ],
@@ -781,19 +719,84 @@
           "formato": "Carrossel",
           "objetivo": "Autoridade",
           "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Grécia oficializa proibição de redes a menores de 15 anos\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"WPP Production inaugura hub em São Paulo\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         },
         {
           "formato": "Reel",
           "objetivo": "Engajar",
           "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Grécia oficializa proibição de redes a menores de 15 anos\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"WPP Production inaugura hub em São Paulo\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
         },
         {
           "formato": "Carrossel",
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Grécia oficializa proibição de redes a menores de 15 anos\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"WPP Production inaugura hub em São Paulo\" (fonte: Meio & Mensagem).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1li53vt",
+      "titulo": "Histórias, design e um pouco de memória curta",
+      "resumo": "Sou otimista e tenho memória curta. Acho que isso me define bem. Quando era criança, eu não gostava de leite. Antigamente, o leite era bem-quisto, sentava à mesa com as famílias. Hoje, parece ter sido escanteado junto do",
+      "fonte": "Propmark",
+      "categoria": "Publicidade",
+      "url": "https://propmark.com.br/artigos/historias-design-e-um-pouco-de-memoria-curta/",
+      "publicado_em": "2026-10-26T11:10:00.000Z",
+      "segmentos": [
+        "design",
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em design gráfico e identidade visual.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Histórias, design e um pouco de memória curta\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em design gráfico e identidade visual.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Histórias, design e um pouco de memória curta\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em design gráfico e identidade visual.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Histórias, design e um pouco de memória curta\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
+      "id": "p_1jyyo5f",
+      "titulo": "A pressa de empreender",
+      "resumo": "Dias atrás, uma grande amiga, profissional de PR, me ligou para contar uma situação curiosa. Dois ex-colaboradores da minha empresa haviam entrado em contato para marcar uma reunião. Na abordagem, não fizeram questão de ",
+      "fonte": "Propmark",
+      "categoria": "Publicidade",
+      "url": "https://propmark.com.br/artigos/a-pressa-de-empreender/",
+      "publicado_em": "2026-10-26T11:07:00.000Z",
+      "segmentos": [
+        "publicidade"
+      ],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"A pressa de empreender\" (fonte: Propmark).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"A pressa de empreender\" (fonte: Propmark).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"A pressa de empreender\" (fonte: Propmark).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     }
