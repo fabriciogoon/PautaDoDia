@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-31T15:01:56.496Z",
-  "edicao": "31 de outubro de 2026",
+  "gerado_em": "2026-11-01T15:44:52.602Z",
+  "edicao": "01 de novembro de 2026",
   "total": 24,
   "segmentos": [
     {
@@ -36,13 +36,43 @@
   ],
   "pautas": [
     {
+      "id": "p_150pxym",
+      "titulo": "EXPLODE!",
+      "resumo": "Como as redes e as ruas mudaram uma eleição que parecia perdida",
+      "fonte": "B9",
+      "categoria": "Comunicação",
+      "url": "https://www.b9.com.br/braincast/explode/",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
+      "segmentos": [],
+      "ideias": [
+        {
+          "formato": "Carrossel",
+          "objetivo": "Autoridade",
+          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"EXPLODE!\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        },
+        {
+          "formato": "Reel",
+          "objetivo": "Engajar",
+          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"EXPLODE!\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
+        },
+        {
+          "formato": "Carrossel",
+          "objetivo": "Engajar",
+          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
+          "prompt": "Aja como um social media e copywriter especialista em marketing e conteúdo.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"EXPLODE!\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
+        }
+      ]
+    },
+    {
       "id": "p_18tbxyq",
       "titulo": "OMO coloca preço no centro da campanha e promete: “entrega muito e custa menos”",
       "resumo": "Todo Ciclo chega como opção mais acessível dentro do portfólio da marca; campanha da Africa Creative parte da pergunta que OMO quer eliminar: escolher entre performance e economia",
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/omo-todo-ciclo-entrega-muito-custa-menos-campanha/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [
         "branding",
         "publicidade"
@@ -75,7 +105,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/peta-hamface-carne-processada-cancer-terror/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [],
       "ideias": [
         {
@@ -105,7 +135,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/canva-virar-verbo-campanha-goodby/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [
         "branding",
         "design",
@@ -139,7 +169,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/cinematico/cara-de-barro/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [],
       "ideias": [
         {
@@ -169,7 +199,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/heinz-halloween-hellmanns-troca-maionese-paulista/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [
         "design"
       ],
@@ -201,7 +231,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/islandia-ai-knittakers-reunioes-trico/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [],
       "ideias": [
         {
@@ -231,7 +261,7 @@
       "fonte": "B9",
       "categoria": "Comunicação",
       "url": "https://www.b9.com.br/columbia-bunker-bitcoin-tech-bros-dont-panic-room/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
+      "publicado_em": "2026-11-01T15:44:50.989Z",
       "segmentos": [
         "publicidade",
         "ia-tech"
@@ -254,38 +284,6 @@
           "objetivo": "Engajar",
           "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
           "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Columbia sorteia bunker de sobrevivência e avisa: Bitcoin não vai te manter aquecido\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        }
-      ]
-    },
-    {
-      "id": "p_2xicz6",
-      "titulo": "Prada chama veterano da Disney para desenhar à mão sua campanha de Natal",
-      "resumo": "John Pomeroy, que trabalhou em clássicos como “Pocahontas” e “A Ratinha Valente”, lidera animação que mistura atores reais, animais ilustrados e técnicas tradicionais",
-      "fonte": "B9",
-      "categoria": "Comunicação",
-      "url": "https://www.b9.com.br/prada-natal-animacao-mao-john-pomeroy/",
-      "publicado_em": "2026-10-31T15:01:54.146Z",
-      "segmentos": [
-        "publicidade"
-      ],
-      "ideias": [
-        {
-          "formato": "Carrossel",
-          "objetivo": "Autoridade",
-          "perspectiva": "Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Prada chama veterano da Disney para desenhar à mão sua campanha de Natal\" (fonte: B9).\n\nÂngulo do conteúdo: Traduzir a notícia: o que ela muda na prática pra quem acompanha o perfil.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Autoridade\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar autoridade.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
-        },
-        {
-          "formato": "Reel",
-          "objetivo": "Engajar",
-          "perspectiva": "Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um roteiro de Reels de até 30 segundos a partir desta notícia:\n\"Prada chama veterano da Disney para desenhar à mão sua campanha de Natal\" (fonte: B9).\n\nÂngulo do conteúdo: Dar uma opinião com posição clara sobre o assunto e convidar o público a concordar ou discordar.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o gancho dos primeiros 3 segundos, o roteiro cena a cena (fala + o que aparece na tela), a legenda e uma sugestão de áudio/trend."
-        },
-        {
-          "formato": "Carrossel",
-          "objetivo": "Engajar",
-          "perspectiva": "Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.",
-          "prompt": "Aja como um social media e copywriter especialista em publicidade e campanhas.\nCrie um carrossel de 5 a 7 cards para o Instagram a partir desta notícia:\n\"Prada chama veterano da Disney para desenhar à mão sua campanha de Natal\" (fonte: B9).\n\nÂngulo do conteúdo: Formato \"mito x verdade\" sobre o tema, quebrando crenças comuns.\n\nAntes de escrever, considere:\n- Marca / cliente: [descreva aqui a marca, o tom de voz e o público]\n- Objetivo do post: Engajar\n\nRegras: português do Brasil, linguagem natural e humana (nada genérico ou robótico),\num gancho forte logo no começo, e foco em gerar engajar.\n\nEntregue: o texto de cada card (capa com gancho, desenvolvimento e card final com CTA), mais a legenda e 5 hashtags."
         }
       ]
     },
